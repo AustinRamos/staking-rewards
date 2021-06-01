@@ -14,8 +14,8 @@ export const AppLayout = React.memo((props: any) => {
       <Layout title={LABELS.APP_TITLE}>
         <Header className="App-Bar">
           <Link to="/">
-            <div className="app-title">
-              <h2>Solana DAPP</h2>
+            <div className="staking-rewards">
+              <h2>staking-rewards</h2>
             </div>
           </Link>
           <AppBar />

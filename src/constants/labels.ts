@@ -103,5 +103,6 @@ export const LABELS = {
     "You need to deposit coin of this type into oyster before trading with it on margin.",
   NO_COLL_TYPE_MESSAGE: "Choose Collateral CCY",
   SAFER: "Safer",
+  STAKING_REWARD_PROG_ID: "HJgNAdNTqbgc3MneBepuUjW82JB5LHaj2eQYQvdHbqxp",
   RISKIER: "Riskier",
 };

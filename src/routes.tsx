@@ -13,7 +13,7 @@ export function Routes() {
     <>
       <HashRouter basename={"/"}>
         <ConnectionProvider>
-          <WalletProvider>
+          <WalletProvider >
               <AccountsProvider>
                 <MarketProvider>
                   <AppLayout>
